@@ -1,9 +1,8 @@
 
-#👨🏻‍💻 Hi, I'm Flo
+# 👨🏻‍💻 Hi, I'm Flo
 
-<pre>
-<b>Theoretical Physicist</b>
-</pre>
+**`Theoretical Physicist`**
+
  
 
 
